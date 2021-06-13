@@ -31,11 +31,11 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'ims.png',
     title: 'Inventory Management System using Java',
     info: 'This project involved the design and creation of an Inventory Management System within which order, product and customer information could be aggregated, manipulated and stored into a database. Java was used to design a system with full CRUD functionality which interacted with a MySql database (with both local and remote database functionality possible). The development process for this project included a CI pipeline which utilized Git and a testing approach which used Junit and Mockito for unit and integration testing, whilst SonarQube was used to improve the code base quality.',
     info2: 'Technologies Used: Java, GCP, MySQL, Junit, Mockito and SonarQube',
-    url: '',
+    url: 'https://www.youtube.com/watch?v=YlYmYx-xmwI',
     repo: 'https://github.com/Andi-Berisha/Inventory-Management-System-Project',
   },
   {
