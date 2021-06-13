@@ -32,39 +32,29 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'Deep Learning License Plate Recognition System using MATLAB',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-
-  {
-    id: nanoid(),
-    img: 'project.jpg',
     title: 'Inventory Management System using Java',
-    info: '',
-    info2: '',
+    info: 'This project involved the design and creation of an Inventory Management System within which order, product and customer information could be aggregated, manipulated and stored into a database. Java was used to design a system with full CRUD functionality which interacted with a MySql database (with both local and remote database functionality possible). The development process for this project included a CI pipeline which utilized Git and a testing approach which used Junit and Mockito for unit and integration testing, whilst SonarQube was used to improve the code base quality.',
+    info2: 'Technologies Used: Java, GCP, MySQL, Junit, Mockito and SonarQube',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Andi-Berisha/Inventory-Management-System-Project',
   },
   {
     id: nanoid(),
     img: 'project.jpg',
     title: 'Full Stack To-Do List Web app Using Java Spring Boot',
-    info: '',
-    info2: '',
+    info: 'This project involved the creation of a Spring Boot web application which allowed users to create and organise tasks on a To-do List web app. The application involved a sophisticated back end created on spring boot which encompassed full CRUD functionality and connection to a H2 database instance. Additionally, this application also involved the design of a fully interactive front end using HTML, CSS and also JS to set up the API calls and retrieve data stored in the H2 database. Moreover, Junit, Mockito and Selenium were utilized to conduct and perform rigorous Unit, Integration and User Acceptance testing achieving an impressive test coverage of 96.2%. Finally, the application is capable of generating To-Do lists for multiple users and boasts full CRUD functionality for both User and Task Entities.',
+    info2: 'Technologies Used: Springboot, Javascript, HTML, CSS, Junit, Mockito and Selenium',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Andi-Berisha/To-do-List-Project',
   },
   {
     id: nanoid(),
     img: 'project.jpg',
     title: 'MERN - Cinema Web Application',
-    info: '',
-    info2: '',
+    info: 'I was part of a group project to produce a fully functioning Cinema website against specific user requirements. This project was a great experience for us to successfully incorporate an agile methodology and understand its benefits for application development. My main role was in building the front-end where I employed React JS, HMTL and CSS to create an attractive cinema website aesthetic with an intuitive and easy to use design. The application allows users to book tickets, rate and discuss movies and also research how to navigate to the cinema locations and the local attractions surrounding each cinema. Moreover, for this project I utilized mocha, chai and selenium to carry out unit, integration and user acceptance testing. A comprehensive test coverage of 81% was achieved.',
+    info2: 'Technologies Used: React, Express, MongoDB, Node.js, HTML, CSS and Javascript',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Andi-Berisha/QAC-TE',
   },
 ];
 
@@ -80,28 +70,18 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/andi-berisha-16a0b8118/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Andi-Berisha',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
