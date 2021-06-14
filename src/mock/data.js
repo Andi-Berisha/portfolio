@@ -62,7 +62,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'andiberisha@hotmail.co.uk',
+  email: 'mailto:andiberisha@hotmail.co.uk',
 };
 
 // FOOTER DATA
