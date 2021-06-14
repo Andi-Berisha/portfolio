@@ -53,7 +53,7 @@ export const projectsData = [
     title: 'MERN - Cinema Web Application',
     info: 'I was part of a group project to produce a fully functioning Cinema website against specific user requirements. This project was a great experience for us to successfully incorporate an agile methodology and understand its benefits for application development. My main role was in building the front-end where I employed React JS, HMTL and CSS to create an attractive cinema website aesthetic with an intuitive and easy to use design. The application allows users to book tickets, rate and discuss movies and also research how to navigate to the cinema locations and the local attractions surrounding each cinema. Moreover, for this project I utilized mocha, chai and selenium to carry out unit, integration and user acceptance testing. A comprehensive test coverage of 81% was achieved.',
     info2: 'Technologies Used: React, Express, MongoDB, Node.js, HTML, CSS and Javascript',
-    url: '',
+    url: 'https://github.com/Andi-Berisha/QAC-TE',
     repo: 'https://github.com/Andi-Berisha/QAC-TE',
   },
 ];
