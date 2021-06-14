@@ -17,6 +17,7 @@ function App() {
   const [contact, setContact] = useState({});
   const [footer, setFooter] = useState({});
 
+
   useEffect(() => {
     setHero({ ...heroData });
     setAbout({ ...aboutData });

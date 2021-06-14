@@ -10,7 +10,7 @@ const Skills = () => {
         <section id="contact">
             <Container>
                 <Title title="Skills" />
-                <Fade bottom duration={1000} delay={800} distance="30px">
+                <Fade bottom duration={1000} delay={1} distance="30px">
                     <div className="contact-wrapper">
                         <p className="contact-wrapper__text">
                             My Dev and Design Skillset
