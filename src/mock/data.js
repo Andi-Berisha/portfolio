@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'andi.jpeg',
+  img: 'newdp.png',
   paragraphOne:
     "Hi, my name's Andi and I'm a full-stack developer who's passionate about design!. I've just finished an intensive 3+ months programming course and I'm now looking for my first dev role. In those three months, I created various real work projects using Java, JS and MERN Stack.",
   paragraphTwo:
