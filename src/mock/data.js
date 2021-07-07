@@ -24,7 +24,7 @@ export const aboutData = {
     "I'm a developer, because I'm inspired by the idea of being a better me today than I was yesterday. Put simply, I love to learn and this project is a great example of that! I picked up Gatsby and GraphQl so I could implement a Contentful CMS and I also worked in some snazzy GSAP animations",
   paragraphThree:
     "When I'm not busy building apps, you can find me going on long walks while listening to my favorite podcasts, playing basketball or investing and learning about cryptocurrency",
-  resume: 'https://drive.google.com/file/d/16c93siwa9atxxRQiT_zcci6cTB9tLltR/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1X4mgYaa9lIjtNQBtgViOWSQTqBJkpY8f/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
